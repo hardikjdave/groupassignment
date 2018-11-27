@@ -1,0 +1,6 @@
+Functionality
+POP UP Message text
+Case in sentence and Header
+Functionality of filter,sort,query,find,save etc.
+why are we exiting from system only?
+shwoing leading zeroes or 00000
